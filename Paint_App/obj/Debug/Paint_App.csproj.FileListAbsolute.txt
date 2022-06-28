@@ -1,0 +1,10 @@
+C:\Users\Mert Sigirci\Desktop\Paint_App\bin\Debug\Paint_App.exe.config
+C:\Users\Mert Sigirci\Desktop\Paint_App\bin\Debug\Paint_App.exe
+C:\Users\Mert Sigirci\Desktop\Paint_App\bin\Debug\Paint_App.pdb
+C:\Users\Mert Sigirci\Desktop\Paint_App\obj\Debug\Paint_App.csproj.AssemblyReference.cache
+C:\Users\Mert Sigirci\Desktop\Paint_App\obj\Debug\Paint_App.Form1.resources
+C:\Users\Mert Sigirci\Desktop\Paint_App\obj\Debug\Paint_App.Properties.Resources.resources
+C:\Users\Mert Sigirci\Desktop\Paint_App\obj\Debug\Paint_App.csproj.GenerateResource.cache
+C:\Users\Mert Sigirci\Desktop\Paint_App\obj\Debug\Paint_App.csproj.CoreCompileInputs.cache
+C:\Users\Mert Sigirci\Desktop\Paint_App\obj\Debug\Paint_App.exe
+C:\Users\Mert Sigirci\Desktop\Paint_App\obj\Debug\Paint_App.pdb
